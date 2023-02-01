@@ -1,4 +1,6 @@
 # Software-Engineer 
+#### github
+* [markdown-cheatsheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 #### Emacs:
 
 * [A Guided Tour of Emacs](https://www.gnu.org/software/emacs/tour/)
