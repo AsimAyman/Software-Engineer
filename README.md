@@ -1,5 +1,5 @@
 # Software-Engineer 
-#### github
+#### Software Configuration Management
 * [markdown-cheatsheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 #### Emacs:
 
