@@ -3,6 +3,7 @@
  SWCM is the Heart of Your SDLC
 * [markdown-cheatsheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 * [SWCM context with SDCL](https://video.udacity-data.com/topher/2022/April/6256dbed_software-configuration-mnagement-slides/software-configuration-mnagement-slides.pdf)
+* [Pro Git](https://video.udacity-data.com/topher/2022/April/6256dd3e_progit/progit.pdf)
 ## Emacs:
 
 * [A Guided Tour of Emacs](https://www.gnu.org/software/emacs/tour/)
