@@ -1,7 +1,9 @@
 # Software-Engineer 
-#### Software Configuration Management
+## Software Configuration Management:
+ SWCM is the Heart of Your SDLC
 * [markdown-cheatsheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
-#### Emacs:
+* [SWCM context with SDCL](https://video.udacity-data.com/topher/2022/April/6256dbed_software-configuration-mnagement-slides/software-configuration-mnagement-slides.pdf)
+## Emacs:
 
 * [A Guided Tour of Emacs](https://www.gnu.org/software/emacs/tour/)
 
