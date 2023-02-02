@@ -4,7 +4,8 @@
 * [markdown-cheatsheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 * [SWCM context with SDCL](https://video.udacity-data.com/topher/2022/April/6256dbed_software-configuration-mnagement-slides/software-configuration-mnagement-slides.pdf)
 * [Pro Git](https://video.udacity-data.com/topher/2022/April/6256dd3e_progit/progit.pdf)
-* ![image](https://user-images.githubusercontent.com/83433950/216155210-bbf241ce-0d4b-4436-9aa2-12517bc82032.png)
+* ![image](https://user-images.githubusercontent.com/83433950/216155210-bbf241ce-0d4b-4436-9aa2-12517bc82032.png) ![image](https://user-images.githubusercontent.com/83433950/216241850-89609f41-64bf-4c26-865b-d631441ebbd7.png)
+
 
 ## Emacs:
 
